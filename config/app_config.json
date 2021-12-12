@@ -1,0 +1,6 @@
+{
+    "env": "dev",
+    "apiKey": "",
+    "baseUrl": "https://api.spacexdata.com",
+    "dataBaseVersion": 1
+  }
